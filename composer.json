@@ -1,0 +1,14 @@
+{
+  "name": "skvoz/testpackage",
+  "description": "test package",
+  "minimum-stability": "*",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "skvoz",
+      "email": "skvoz.ne@gmail.com"
+    }
+  ],
+  "require":{
+  }
+}
