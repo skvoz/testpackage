@@ -1,7 +1,7 @@
 <?php
 
 
-namespace myClass;
+namespace skvoz\myClass;
 
 
 class Validator
